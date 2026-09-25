@@ -3,10 +3,10 @@
   "dbSchemaVersion": 4,
   "datasetVersion": "2026-09-25",
   "referenceDate": "2026-08-21",
-  "recordCount": 36195,
-  "checksum": "sha256:73699f18da119ffe8667d5319cfb66d4232da679f1f836b7bbcd7652b95cf619",
-  "sizeBytes": 3015004,
+  "recordCount": 36267,
+  "checksum": "sha256:15253abc6ed7da670fc77d263f12fe4b16d1dde708585ba8a14e2aa24ae27c0b",
+  "sizeBytes": 3028089,
   "url": "https://raw.githubusercontent.com/jangvis/no-mad-max-dataset/main/bundles/cameras_2026-09-25.db.gz",
   "minAppVersion": "1.0.0",
-  "publishedAt": "2026-09-25T11:33:42.545462Z"
+  "publishedAt": "2026-09-25T14:00:17.787883Z"
 }
