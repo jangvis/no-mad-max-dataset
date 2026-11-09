@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "dbSchemaVersion": 5,
-  "datasetVersion": "2026-10-19",
-  "referenceDate": "2026-09-13",
-  "recordCount": 36139,
-  "checksum": "sha256:55b72fb66fc5c765c61ce23620dcd4da0156e08e63bed5774950bb7207139e7a",
-  "sizeBytes": 3682295,
-  "url": "https://raw.githubusercontent.com/jangvis/no-mad-max-dataset/main/bundles/cameras_2026-10-19.db.gz",
+  "datasetVersion": "2026-11-09",
+  "referenceDate": "2026-10-23",
+  "recordCount": 36986,
+  "checksum": "sha256:f9ccc2821dfdbb9fa9fcfbb3b37410078d751baa90c7b710dd3e4451e91d79fa",
+  "sizeBytes": 3675138,
+  "url": "https://raw.githubusercontent.com/jangvis/no-mad-max-dataset/main/bundles/cameras_2026-11-09.db.gz",
   "minAppVersion": "1.0.0",
-  "publishedAt": "2026-10-19T04:24:31.952402Z"
+  "publishedAt": "2026-11-09T04:01:56.950097Z"
 }
